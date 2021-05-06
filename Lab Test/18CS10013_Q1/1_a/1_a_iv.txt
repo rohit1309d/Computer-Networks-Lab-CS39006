@@ -1,0 +1,16 @@
+Put "smtp.req" as display filter and then check the source and destinations ips and port in the details section of packet
+
+Request 1
+
+Source IP address = 127.0.0.1
+Source Port = 45792
+Destination IP address = 127.0.0.1
+Destination Port = 25
+
+
+Request 2
+
+Source IP address = 127.0.0.1
+Source Port = 45794
+Destination IP address = 127.0.0.1
+Destination Port = 25

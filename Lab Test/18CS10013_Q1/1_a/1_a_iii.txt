@@ -1,0 +1,2 @@
+Number of smtp packets = 28
+We can see the total number of packets at the bottom of the screen in wireshark after applying display filter "smtp"
